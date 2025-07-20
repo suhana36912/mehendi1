@@ -419,7 +419,7 @@ label{
     padding-left: 1.5rem;
 }
 /*booking section ends*/
-@media(max-width:400px){
+@media(max-width:700px){
     body{
         flex-direction: column;
         padding-top: 75px;
